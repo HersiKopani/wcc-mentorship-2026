@@ -100,7 +100,7 @@ Each session follows a consistent format:
 
 ## 📬 Contact
 
-For questions about the program, reach out to your mentor directly or open a discussion in this repo.
+For questions about the program, reach out to me directly or open a discussion in this repo.
 
 ---
 
