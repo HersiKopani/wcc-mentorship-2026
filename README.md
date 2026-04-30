@@ -1,4 +1,3 @@
-# wcc-mentorship-2026
 # 🚀 Backend · Cloud · DevOps · AI Mentorship Program
 
 A structured 12-week mentorship program covering modern backend engineering, cloud infrastructure, DevOps practices, and AI integration. Designed to take engineers from foundational concepts to building production-ready, AI-powered systems.
