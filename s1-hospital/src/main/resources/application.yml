@@ -1,0 +1,23 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /hospital
+
+spring:
+  application:
+    name: wcc-hospital-s1
+
+app:
+  jwt:
+    secret: "wcc-mentorship-2026-super-secret-key-must-be-at-least-256-bits-long"
+    expiration-ms: 86400000
+    audience: "test"
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    url: /v3/api-docs
+    operationsSorter: method
+    tryItOutEnabled: true
