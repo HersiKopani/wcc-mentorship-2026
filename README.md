@@ -98,6 +98,11 @@ Each session follows a consistent format:
 
 ---
 
+## NOTES
+
+https://docs.google.com/document/d/1aPRmnkeBMJGeNt458bmGCZjLOO0RuK4AN7FyMI-bTRs/edit?usp=sharing 
+
+---
 ## 📬 Contact
 
 For questions about the program, reach out to me directly or open a discussion in this repo.
